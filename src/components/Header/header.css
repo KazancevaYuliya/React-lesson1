@@ -1,0 +1,28 @@
+img {
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 40px;
+    width: 100px;
+    height: 100px;
+}
+.nav-item {
+   display: inline;
+   margin-left: 150px;
+}
+
+wraper {
+    float: left;
+    
+}
+
+
+h1 {
+    float: left;
+    color: #003395;
+    font-size: 20px;
+    
+}
+p {
+    float: left;
+    font-size: 18px; 
+}

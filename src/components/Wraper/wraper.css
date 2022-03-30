@@ -1,0 +1,14 @@
+H1 {
+    float: left;
+    font-size: 30px;
+    display: block;
+    margin-left: 25px;
+}
+
+P {
+    height: 100px;
+    width: 250px;
+    margin-left: -175px;
+    margin-top: 60px;
+    text-align: left;  
+}
