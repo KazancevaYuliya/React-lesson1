@@ -1,0 +1,42 @@
+.btn {
+    padding: 12px 48px;
+    margin-left: -770px;
+    margin-top: 250px;
+    border-radius: 24px;
+    background-color: #0076ff;
+    font-size: 14px;
+    color: white;
+    font-weight: 500;
+    outline: none;
+    cursor: pointer;
+  
+}
+
+.btn_one {
+  padding: 12px 48px;
+  margin: 130px;
+  border-radius: 24px;
+  background-color: #0076ff;
+  font-size: 14px;
+  color: white;
+  font-weight: 500;
+  outline: none;
+  cursor: pointer;
+}
+
+
+.btn_two {
+  padding: 12px 48px;
+  border-radius: 24px;
+  background-color: #0076ff;
+  font-size: 14px;
+  color: white;
+  font-weight: 500;
+  outline: none;
+  cursor: pointer;
+}
+
+
+
+
+
